@@ -1,0 +1,80 @@
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.deps.json
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.runtimeconfig.json
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.runtimeconfig.dev.json
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.dll
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.pdb
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.dll
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.pdb
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csprojAssemblyReference.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorAssemblyInfo.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorAssemblyInfo.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.AssemblyInfoInputs.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.AssemblyInfo.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.TagHelpers.input.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.TagHelpers.output.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorCoreGenerate.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorTargetAssemblyInfo.cs
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.pdb
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.dll
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.pdb
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.CopyComplete
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.Properties.Resources.resources
+C:\Users\Fernando Spelling\Source\Repos\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.GenerateResource.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.deps.json
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.runtimeconfig.json
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.runtimeconfig.dev.json
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.dll
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.pdb
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.dll
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\bin\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.pdb
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csprojAssemblyReference.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.Properties.Resources.resources
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.GenerateResource.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.CoreCompileInputs.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorAssemblyInfo.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorAssemblyInfo.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.AssemblyInfoInputs.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.AssemblyInfo.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.TagHelpers.input.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.TagHelpers.output.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorCoreGenerate.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorTargetAssemblyInfo.cache
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.RazorTargetAssemblyInfo.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.Views.pdb
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.dll
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.pdb
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\IntroducaoCoreLogin.csproj.CopyComplete
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Pais\Create.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Pais\Delete.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Pais\Details.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Pais\Edit.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Pais\Index.g.cshtml.cs
+C:\Projetos\intro-aspcore\IntroducaoCoreLogin\IntroducaoCoreLogin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pais\Default.g.cshtml.cs
